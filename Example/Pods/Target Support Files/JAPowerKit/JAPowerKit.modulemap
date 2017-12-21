@@ -1,0 +1,6 @@
+framework module JAPowerKit {
+  umbrella header "JAPowerKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
