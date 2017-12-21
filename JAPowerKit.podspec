@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 JAPowerKit is tool demo
                        DESC
 
-  s.homepage         = 'https://github.com/Jacob/JAPowerKit'
+  s.homepage         = 'https://github.com/Jacob-LJ/JAPowerKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Jacob' => '312846421@qq.com' }
-  s.source           = { :git => 'https://github.com/Jacob/JAPowerKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Jacob-LJ/JAPowerKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
