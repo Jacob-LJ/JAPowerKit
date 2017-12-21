@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JAPowerKit_Example' do
+  pod 'JAPowerKit', :path => '../'
+
+  target 'JAPowerKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
