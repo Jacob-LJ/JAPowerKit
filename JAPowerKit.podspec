@@ -32,7 +32,12 @@ JAPowerKit is tool demo
 
 # s.source_files = 'JAPowerKit/Classes/**/*'
     s.subspec 'Base' do |b|
-    b.source_files = 'JAPowerKit/Classes/Base/Macros/**/*'
+        #b.source_files = 'JAPowerKit/Classes/Base/**/*'
+
+        b.subspec 'Macros' do |m|
+        m.source_files = 'JAPowerKit/Classes/Base/Macros/**/*'
+        end
+
     end
   
   # s.resource_bundles = {

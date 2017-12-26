@@ -18,9 +18,7 @@
 /* Begin PBXFileReference section */
 		011DCE9694D119B84AFE5871E091F2E4 /* Pods-JAPowerKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JAPowerKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		1A79D25239708E57AD5304F163FD9CA4 /* Pods_JAPowerKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_JAPowerKit_Example.framework; path = "Pods-JAPowerKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		22444100F5F8088BAFDE8F8541006E30 /* DimensionMacro.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DimensionMacro.h; path = JAPowerKit/Classes/Base/Macros/DimensionMacro.h; sourceTree = "<group>"; };
 		2F18EFF79FA3AC60C4F44D766F2EF2DD /* Pods-JAPowerKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JAPowerKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		3C48B6D33595A8989E39FF7C98F931B0 /* UtilsMacro.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = UtilsMacro.h; path = JAPowerKit/Classes/Base/Macros/UtilsMacro.h; sourceTree = "<group>"; };
 		47BDC8AE478DDA3AF44C6F184C7F7A54 /* Pods-JAPowerKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JAPowerKit_Example-frameworks.sh"; sourceTree = "<group>"; };
 		4AAA9B14CF6BF1884762BE8B66080F12 /* Pods-JAPowerKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-JAPowerKit_Example-dummy.m"; sourceTree = "<group>"; };
 		4DE52D1997C5693C2394017F1080C9AA /* Pods-JAPowerKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-JAPowerKit_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -30,14 +28,16 @@
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6B619EC54A6F0BCD651EFFF6816AA22B /* Pods-JAPowerKit_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JAPowerKit_Tests-resources.sh"; sourceTree = "<group>"; };
 		6C489C330450AEAD4FF090101CB7A51F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		714A746BB145E0121BA3A0F360464FB1 /* DimensionMacro.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DimensionMacro.h; path = JAPowerKit/Classes/Base/Macros/DimensionMacro.h; sourceTree = "<group>"; };
 		8A63C44AFD7A3A1661225B10C9053A23 /* Pods-JAPowerKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-JAPowerKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		924274B932D183CCF60CB7B209C57243 /* Pods-JAPowerKit_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JAPowerKit_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93BC41F0BD3A693F4B1C1A3648FDBEE2 /* Pods-JAPowerKit_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JAPowerKit_Example-resources.sh"; sourceTree = "<group>"; };
+		93CB03CF0EB9BA2953A0E6C53ACC23AC /* UtilsMacro.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = UtilsMacro.h; path = JAPowerKit/Classes/Base/Macros/UtilsMacro.h; sourceTree = "<group>"; };
 		94F4AF26CED8D7042D980E2D85714034 /* Pods-JAPowerKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-JAPowerKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		9E87E3C89438DE19FA8A59FD2E89943C /* Sington.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Sington.h; path = JAPowerKit/Classes/Base/Macros/Sington.h; sourceTree = "<group>"; };
 		B4BD2A00D17152CC98CDD6EC51554738 /* Pods_JAPowerKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_JAPowerKit_Tests.framework; path = "Pods-JAPowerKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB84B17F38BD2C7A41C12B3F8FC67CC9 /* Pods-JAPowerKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-JAPowerKit_Example.modulemap"; sourceTree = "<group>"; };
+		D40DA61F626DD01E58D5588BAF9849B4 /* Sington.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Sington.h; path = JAPowerKit/Classes/Base/Macros/Sington.h; sourceTree = "<group>"; };
 		DB6C0BDAD7F77BC974A6C93692912D71 /* Pods-JAPowerKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-JAPowerKit_Tests-dummy.m"; sourceTree = "<group>"; };
 		E8F87A539C7766FDD965DD27E5A99D5C /* Pods-JAPowerKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-JAPowerKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		EA53C39581C7697AE794F344AAC2C9AC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -65,21 +65,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		030506B591250EF5298F24F4D1F1346E /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				969F97B2059F1B296E8E3D0F01330E48 /* Macros */,
+			);
+			name = Base;
+			sourceTree = "<group>";
+		};
 		3624AA99D75912C6CD53EE1DBFBB8783 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3CDEE581698348177942FBF0BC93B8B6 /* JAPowerKit */,
+				8C26DCDF09576A90F2742DEEFA212F1E /* JAPowerKit */,
 			);
 			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		3CDEE581698348177942FBF0BC93B8B6 /* JAPowerKit */ = {
-			isa = PBXGroup;
-			children = (
-				833A96BD26E3DC2F9DA913B5E5450E6E /* Base */,
-			);
-			name = JAPowerKit;
-			path = ../..;
 			sourceTree = "<group>";
 		};
 		5CC5D7C4D5E3D2970CA91B6B6DA1D974 /* Targets Support Files */ = {
@@ -111,14 +110,23 @@
 			);
 			sourceTree = "<group>";
 		};
-		833A96BD26E3DC2F9DA913B5E5450E6E /* Base */ = {
+		8C26DCDF09576A90F2742DEEFA212F1E /* JAPowerKit */ = {
 			isa = PBXGroup;
 			children = (
-				22444100F5F8088BAFDE8F8541006E30 /* DimensionMacro.h */,
-				9E87E3C89438DE19FA8A59FD2E89943C /* Sington.h */,
-				3C48B6D33595A8989E39FF7C98F931B0 /* UtilsMacro.h */,
+				030506B591250EF5298F24F4D1F1346E /* Base */,
 			);
-			name = Base;
+			name = JAPowerKit;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		969F97B2059F1B296E8E3D0F01330E48 /* Macros */ = {
+			isa = PBXGroup;
+			children = (
+				714A746BB145E0121BA3A0F360464FB1 /* DimensionMacro.h */,
+				D40DA61F626DD01E58D5588BAF9849B4 /* Sington.h */,
+				93CB03CF0EB9BA2953A0E6C53ACC23AC /* UtilsMacro.h */,
+			);
+			name = Macros;
 			sourceTree = "<group>";
 		};
 		9CB59F5B8DD6A439CA218F5C583D5F83 /* Pods-JAPowerKit_Tests */ = {

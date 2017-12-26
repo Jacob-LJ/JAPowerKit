@@ -1,9 +1,9 @@
 {
   "name": "JAPowerKit",
-  "version": "0.1.0",
-  "summary": "A short description of JAPowerKit.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Jacob/JAPowerKit",
+  "version": "0.0.1",
+  "summary": "JAPowerKit for Self",
+  "description": "JAPowerKit is tool demo",
+  "homepage": "https://github.com/Jacob-LJ/JAPowerKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "Jacob": "312846421@qq.com"
   },
   "source": {
-    "git": "https://github.com/Jacob/JAPowerKit.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/Jacob-LJ/JAPowerKit.git",
+    "tag": "0.0.1"
   },
   "platforms": {
     "ios": "8.0"
@@ -21,7 +21,12 @@
   "subspecs": [
     {
       "name": "Base",
-      "source_files": "JAPowerKit/Classes/Base/Macros/*"
+      "subspecs": [
+        {
+          "name": "Macros",
+          "source_files": "JAPowerKit/Classes/Base/Macros/**/*"
+        }
+      ]
     }
   ]
 }

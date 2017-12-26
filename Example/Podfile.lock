@@ -1,7 +1,9 @@
 PODS:
-  - JAPowerKit (0.1.0):
-    - JAPowerKit/Base (= 0.1.0)
-  - JAPowerKit/Base (0.1.0)
+  - JAPowerKit (0.0.1):
+    - JAPowerKit/Base (= 0.0.1)
+  - JAPowerKit/Base (0.0.1):
+    - JAPowerKit/Base/Macros (= 0.0.1)
+  - JAPowerKit/Base/Macros (0.0.1)
 
 DEPENDENCIES:
   - JAPowerKit (from `../`)
@@ -11,7 +13,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  JAPowerKit: 9b9c12eb06d92e49244bbc75aceb992030b08d64
+  JAPowerKit: 1e2df3d0d824c65014510451421692aaca7273d2
 
 PODFILE CHECKSUM: b30b8e85a0e9d2ea8b2596df12edd637e92d9f4f
 
